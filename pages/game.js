@@ -6,9 +6,7 @@ export default function Game() {
   return (
     <Layout home>
       <Head>
-      <section className={utilStyles.headingMd}>
         <title>The Game</title>
-        </section>
       </Head>
       <section className={utilStyles.text}>
         <p>After spending the past few months trying to formulate a website that I love and am proud of, I realized that a big part of why I wasn’t able to, was because I never felt like it was an accurate depiction of who I am as a human-being. To showcase what I've done and created over the years can be explained in my extremely outdated Linkedin. I am writing this to be real with you and be real with myself: <b> As the world grows larger, and I become increasingly aware of my limited understanding of it, I've come to believe that if I should know the most about anything, it should be myself.</b></p>
