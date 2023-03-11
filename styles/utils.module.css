@@ -1,0 +1,164 @@
+.heading2Xl {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+    margin-top: 8%;
+  }
+  
+  .headingXl {
+    font-size: 5rem;
+    line-height: 1.3;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+    margin-top: 8%;
+  }
+  
+  .headingLg {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 1.5rem 0;
+    margin-top: 8%;
+  }
+  
+  .headingMd {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+  }
+  
+  .borderCircle {
+    border-radius: 9999px;
+  }
+  
+  .colorInherit {
+    color: inherit;
+  }
+  
+  .padding1px {
+    padding-top: 1px;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .listItem {
+    margin: 0 0 1rem;
+    
+  }
+  
+  .lightText {
+    color: #666;
+  }
+
+  .click{
+    color: #334D5C;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+  }
+
+  .text{
+    color:black;
+    text-align: left;
+    font-size: 16px;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: 'Avenir', sans-serif;
+    line-height: 1.5rem;    
+  }
+
+  .level{
+    color:black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left;
+    font-size: 16px;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: 'Avenir', sans-serif;
+    line-height: 1.5rem;
+    margin-top: 3%;
+  }
+
+  .question{
+    color:red;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: 'Avenir', sans-serif;
+    line-height: 0.5rem;
+    margin-top: 3%;
+  }
+
+  .italicize{
+    color:black;
+    text-align: left;
+    font-size: 16px;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: 'Avenir', sans-serif;
+    line-height: 1.5rem; 
+    font-style: italic;
+  }
+
+  .caresection{
+    color:#334D5C;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: 'Avenir', sans-serif;
+    line-height: 1.5rem;    
+  }
+
+  .author{
+    color:black;
+    text-align: left;
+    font-size: 16px;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: 'Avenir', sans-serif;
+    line-height: 1.5rem; 
+    font-style: italic;
+    text-decoration: underline;
+  }
+
+  .quotes{
+    color:black;
+    text-align: left;
+    font-size: 16px;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: Liberation Mono;
+    line-height: 1.5rem;    
+  }
+
+  .people{
+    color:#3a213a;
+    font-weight: bold;
+    text-align: left;
+    font-size: 16px;
+    padding: 0rem 0vw;
+    max-width: 800px;
+    margin: auto;  
+    font-family: 'Avenir', sans-serif;
+    line-height: 1.5rem;  
+  }
+
+  
+
